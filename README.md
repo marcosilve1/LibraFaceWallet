@@ -12,6 +12,4 @@ https://docs.google.com/presentation/d/1EiErto7XS4PvI10CEO3yMp9dbiH4j-HVDBUHjmWF
 The API used are available at the following link: 
 https://community.libra.org/t/libra-sdk-mol-a-javascript-sdk-for-libra-and-move/2325.
 
-The authors of this work are:
-Luca D’Ambrosio - 890761 - luca.dambrosio3@studio.unibo.it
-Marco Silvestri - 889874 - marco.silvestri10@studio.unibo.it
+The authors of this work are: Luca D’Ambrosio (890761 - luca.dambrosio3@studio.unibo.it) and Marco Silvestri (889874 - marco.silvestri10@studio.unibo.it)
